@@ -38,6 +38,8 @@ button {
     padding: 10px 20px;
     border: none;
     cursor: pointer;
+    display: block;
+    margin: 0 auto; 
 }
  
 button:hover {
