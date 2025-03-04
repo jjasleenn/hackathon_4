@@ -18,7 +18,8 @@ The goal of this project is to implement client-side form validation and handle 
 
 ### Name 2: Paramdeep singh 
 
--   Was responsible for styles.css file.
+-  Worked on the overall design and layout of the form using CSS.
+
 ### Name 3: Khush patel 
 
--   was responsible for script.js file. 
+-   Handled the ticket type validation and other form logic using JavaScript. 
