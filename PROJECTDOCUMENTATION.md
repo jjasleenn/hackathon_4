@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The goal of this project is to implement client-side form validation and handle form events effectively using JavaScript. The validation ensures that users provide correct and complete input before submission, enhancing user experience and data integrity.
+TThe goal of this project is to create an interactive registration form for an event or conference. The form collects user information such as Full Name, Email, Phone Number, and Ticket Type. The form incorporates both built-in HTML5 validation and custom JavaScript validation to ensure that the data entered by the user is valid.
 
 ## Team Members:
 
